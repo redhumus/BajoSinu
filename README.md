@@ -2,7 +2,7 @@
 
 Este repositorio contiene la bitácora de investigación y aprendizaje en ciencia de datos, activismo y visualización de datos de la Comunidad ReDHumus. Este es un grupo colaborativo abierto.
 
-El repositorio principal carga los datos contenidos en varias copias redundantes de un repositorio en instancias de distintos Sistemas de Control de Versiones: Una instancia autohospedada de FOSSIL-SCM, la presente copia en GitLab y otra presencia en Github sin copia de archivos como una estrategia para limitar el acceso a minería de datos para Inteligencia Aparente (concepto tomado de la comunidad Grafoscopio).
+El repositorio principal carga los datos contenidos en varias copias redundantes de un repositorio en instancias de distintos Sistemas de Control de Versiones: Una instancia autohospedada de FOSSIL-SCM, la presente copia en GitLab y otra presencia en Github, que usamos por la existencia de comunidad alrededor de ella pero que tendremos en observación por el uso que hace de datos para minería de datos para Inteligencia Aparente (concepto de la comunidad Grafoscopio).
 
 Los repositorios existentes corresponden a varios proyectos y herramientas auxiliares desarrolladas para llevarlos a cabo y se ponen a disposición de las comunidades bajo una licencia GPL V3.
 
