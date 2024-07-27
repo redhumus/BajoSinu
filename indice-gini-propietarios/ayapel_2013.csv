@@ -1,0 +1,15 @@
+Año,Municipio,rango tamaño predial,cantidad de predios,área (Ha),cantidad de propietarios,área(Ha)/propetario
+2013,Ayapel,"A1.Hasta 0,5 ha",251,45.3,260,0.17425461538461548
+2013,Ayapel,"A2.Mayor a 0,5 ha - hasta 1 ha",78,60.7,95,0.6388442105263159
+2013,Ayapel,"A3.Mayor a 1 ha - hasta 2,5 ha",179,327.9,204,1.6075818627450982
+2013,Ayapel,"A4.Mayor a 2,5 ha - hasta 3 ha",42,100.7,47,2.1430680851063828
+2013,Ayapel,B1.Mayor a 3 ha - hasta 5 ha,160,615.1,197,3.1221274111675141
+2013,Ayapel,B2.Mayor a 5 ha - hasta 10 ha,353,2989.0,404,7.3984514851485157
+2013,Ayapel,C1.Mayor a 10 ha - hasta 20 ha,634,9437.5,743,12.701932436070035
+2013,Ayapel,D1.Mayor a 20 ha - hasta 50 ha,708,22534.8,925,24.361976540540514
+2013,Ayapel,D2.Mayor a 50 ha - hasta 100 ha,374,26250.8,564,46.543964716312018
+2013,Ayapel,D3.Mayor a 100 ha - hasta 200 ha,195,27454.5,337,81.467427893174957
+2013,Ayapel,E1.Mayor a 200 ha - hasta 500 ha,118,34932.9,173,201.92431502890165
+2013,Ayapel,E2.Mayor a 500 ha - hasta 1000 ha,34,23205.7,37,627.18192432432397
+2013,Ayapel,E3.Mayor a 1000 ha - hasta 2000 ha,16,19731.4,17,1160.6725235294105
+2013,Ayapel,E4.Mayor a 2000 ha - hasta 5000 ha,4,11217.5,4,2804.3705499999978
